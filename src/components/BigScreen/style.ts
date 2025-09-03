@@ -1,0 +1,39 @@
+import styled from "styled-components";
+
+interface BigScreenProps {
+  $height?: string;
+}
+
+export const BigScreenContainer = styled.div<BigScreenProps>`
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 24px;
+  border: 5px solid #fff;
+  background: #c7d9fdff;
+  padding: 0px 20px;
+  box-shadow: 3px 3px 16px 0 #bdc0c7 inset, 0px 0px 4px #bdc0c7;
+  height: ${(props) => props.$height || "auto"};
+`;
+
+export const Title = styled.h3`
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: #ffffff;
+  width: fit-content;
+  border-radius: 24px 0px 100px 0px;
+  padding: 8px 24px 8px 10px;
+  font-size: 16px;
+  color: #333;
+  margin: 0;
+  box-shadow: 7px 7px 10px rgba(148, 163, 190, 0.5);
+`;
+
+export const Content = styled.div`
+  margin-top: 24px;
+  font-size: 14px;
+  width: 100%;
+`;
