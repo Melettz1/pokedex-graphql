@@ -2,6 +2,9 @@
 
 Uma simulação de Pokédex construída com **React**, utilizando dados de **GraphQL** (https://pokeapi.co/docs/graphql) através do **Apollo Client**, com interface totalmente projetada por mim.
 
+Repositório do projeto: [https://github.com/Melettz1/pokedex-graphql](https://github.com/Melettz1/pokedex-graphql)  
+Meu GitHub: [https://github.com/Melettz1](https://github.com/Melettz1)
+
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-5.4.0-646CFF?logo=vite&logoColor=white)  
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-3.9.0-311C87?logo=apollographql&logoColor=white)  
@@ -60,9 +63,14 @@ Este projeto é **open source**, licenciado sob **MIT License**.
 
 ---
 
+## English Version (Short)
+
 # Pokédex React (GraphQL + Apollo)
 
 A Pokédex app built with **React**, fetching Pokémon data via **GraphQL** using **Apollo Client**, featuring a fully custom UI.
+
+Repository: [https://github.com/Melettz1/pokedex-graphql](https://github.com/Melettz1/pokedex-graphql)  
+GitHub: [https://github.com/Melettz1](https://github.com/Melettz1)
 
 **Features:**  
 * Browse and view Pokémon details (stats, types, images)  
