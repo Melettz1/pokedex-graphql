@@ -13,6 +13,9 @@ Meu GitHub: [https://github.com/Melettz1](https://github.com/Melettz1)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
+<img width="1655" height="918" alt="image" src="https://github.com/user-attachments/assets/3d3ded6d-8b33-4759-9b2d-0e4673bb88fb" />
+
+
 
 ## Funcionalidades
 
